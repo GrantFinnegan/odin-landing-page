@@ -55,3 +55,38 @@ body {
     height: 300px;
     width: auto;
 }
+
+/* testimonials section formatting */
+.testimonials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testimonials h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.info-card {
+    flex: 0 0 200px;
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.info-card img{
+    height: 200px;
+    width: 200px;
+    border: 4px solid #3882f6;
+    border-radius: 16px;
+}
