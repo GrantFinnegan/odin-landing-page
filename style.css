@@ -103,3 +103,19 @@ body {
     border: 4px solid #3882f6;
     border-radius: 16px;
 }
+
+/* sign up button generic formatting */
+.sign-up {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 32px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 8px;
+}
+
+/* white border because button is on blue background */
+.cta .sign-up{
+    border: 2px solid #f9faf8;
+}
