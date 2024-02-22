@@ -49,7 +49,20 @@ body {
 
 /* hero formatting */
 .hero {
+    background-color: #1f2937;
+    padding: 100px 150px;
+    color: #e5e7eb;
+
     display: flex;
+    
+}
+.hero div{
+    flex: 1 1 0;
+}
+.hero h2{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
 }
 .hero img {
     height: 300px;
