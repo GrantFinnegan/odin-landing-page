@@ -123,6 +123,11 @@ body {
 /* quote section formatting */
 .quote-section {
     background-color: #e5e7eb;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
 }
 
 .quote {
@@ -138,4 +143,9 @@ body {
     font-weight: bold;
     text-align: right;
     margin: 0;
+}
+
+.quote-section div{
+    width: 928px;
+    flex: 0 1 auto;
 }
