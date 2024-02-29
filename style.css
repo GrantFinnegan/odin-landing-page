@@ -119,3 +119,23 @@ body {
 .cta .sign-up{
     border: 2px solid #f9faf8;
 }
+
+/* quote section formatting */
+.quote-section {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    color: #1f2937;
+    font-size: 32px;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0;
+}
+
+.attribution {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+    margin: 0;
+}
