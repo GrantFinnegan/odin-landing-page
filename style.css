@@ -95,7 +95,9 @@ body {
 
     display: flex;
     flex-direction: column;
-    
+
+    color: hsl(0, 0%, 40%);
+    font-weight: 500;
 }
 
 .info-card img{
