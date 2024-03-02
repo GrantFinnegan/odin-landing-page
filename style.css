@@ -2,6 +2,8 @@ body {
     display: flex;
     flex-direction: column;
 
+    margin: 0;
+
     font-family: Roboto, sans-serif;
 }
 
@@ -38,7 +40,16 @@ body {
 /* footer formatting */
 .footer {
     flex: 0 0 auto;
+
+    display: flex;
+    justify-content: center;
+
+    padding: 18px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
 }
+
 
 /* main content container formatting */
 .content {
