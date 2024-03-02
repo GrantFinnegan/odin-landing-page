@@ -50,14 +50,17 @@ body {
 /* hero formatting */
 .hero {
     background-color: #1f2937;
-    padding: 100px 150px;
+    padding: 100px 32px;
     color: #e5e7eb;
 
     display: flex;
-    
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
 }
 .hero-text{
-    flex: 1 1 0;
+    flex: 0 0 516px;
+    height: min-content;
 }
 .hero p {
     font-size: 18px;
@@ -69,7 +72,7 @@ body {
     color: #f9faf8;
 }
 .hero-img-container {
-    flex: 1 1 0;
+    flex: 0 0 516px;
 }
 .hero-img-container img {
     width: 100%;
