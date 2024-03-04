@@ -7,6 +7,8 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+
+
 /* header section */
 .header {
     padding: 0 100px;
@@ -37,6 +39,8 @@ body {
     color: #e5e7eb;
 }
 
+
+
 /* footer formatting */
 .footer {
     flex: 0 0 auto;
@@ -51,12 +55,15 @@ body {
 }
 
 
+
 /* main content container formatting */
 .content {
     flex: 1 1 auto;
     display: flex;
     flex-direction: column;
 }
+
+
 
 /* hero formatting */
 .hero {
@@ -89,6 +96,8 @@ body {
     width: 100%;
     height: auto;
 }
+
+
 
 /* testimonials section formatting */
 .testimonials {
@@ -128,6 +137,8 @@ body {
     border-radius: 16px;
 }
 
+
+
 /* sign up button generic formatting */
 .sign-up {
     font-size: 18px;
@@ -143,6 +154,8 @@ body {
 .cta .sign-up{
     border: 2px solid #f9faf8;
 }
+
+
 
 /* quote section formatting */
 .quote-section {
@@ -174,6 +187,8 @@ body {
     flex: 0 1 auto;
 }
 
+
+
 /* call to action (cta) section formatting */
 .cta {
     padding: 100px 0px;
@@ -182,6 +197,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 .cta>div{
     background-color: #3882f6;
     padding: 18px 100px;
@@ -195,16 +211,19 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
 .cta-text {
     display: flex;
     flex-direction: column;
 }
+
 .cta-text>h2{
     color: #f9faf8;
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 0;
 }
+
 .cta-text>p {
     color: #e5e7eb;
     font-size: 18px;
