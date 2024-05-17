@@ -19,7 +19,7 @@ body {
 }
 
 .header-content {
-    flex: 0 1 85%;
+    flex: 0 1 70%;
 
     display: flex;
     justify-content: space-between;
@@ -169,7 +169,7 @@ body {
 .quote-section {
     background-color: #e5e7eb;
 
-    display: flex;
+    display: flex; 
     justify-content: center;
     align-items: center;
     padding: 100px 0;
