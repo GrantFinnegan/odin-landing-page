@@ -103,8 +103,8 @@ body {
     
     background-image: url("./img/Edvard-Munch-The-Scream-cropped.jpg");
     background-repeat: no-repeat;
-    background-position: right bottom;
-    background-size: 100% auto;
+    background-position: center bottom;
+    background-size: auto 100%;
 }
 
 
