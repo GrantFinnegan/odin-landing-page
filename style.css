@@ -124,7 +124,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
-    gap: 32px;
+    gap: 64px;
 }
 
 .info-card {
