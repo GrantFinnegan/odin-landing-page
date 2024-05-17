@@ -76,7 +76,7 @@ body {
 /* hero formatting */
 .hero {
     background-color: #1f2937;
-    padding: 100px 32px;
+    padding: 100px 0px;
     color: #e5e7eb;
 
     display: flex;
@@ -85,7 +85,7 @@ body {
     flex-wrap: wrap;
 }
 .hero-text{
-    flex: 0 0 516px;
+    flex: 0 0 35%;
     height: min-content;
 }
 .hero p {
@@ -99,11 +99,12 @@ body {
     color: #f9faf8;
 }
 .hero-img-container {
-    flex: 0 0 516px;
-}
-.hero-img-container img {
-    width: 100%;
-    height: auto;
+    flex: 0 0 35%;
+    
+    background-image: url("./img/Edvard-Munch-The-Scream-cropped.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 100% auto;
 }
 
 
