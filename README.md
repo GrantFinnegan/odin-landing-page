@@ -11,3 +11,8 @@ The goal of this project is to utilize knowledge of CSS, particularly Flexbox, t
 Cropped from original resolution to 516 by 440 px
 Digitized by the National Museum of Art, Architecture and Design  
 Licensed under https://creativecommons.org/licenses/by/4.0/deed.en
+
+
+
+[Avatar Icon Placeholder by raphaelsilva, from pixabay](https://pixabay.com/vectors/avatar-icon-placeholder-profile-3814049/)
+[File location in project](./img/avatar-3814049.svg)
