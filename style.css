@@ -253,3 +253,7 @@ body {
 .img-attribution>p{
     margin: .5em;
 }
+
+.img-attribution a{
+    color: #3882f6;
+}
