@@ -102,10 +102,9 @@ body {
 .hero-img-container {
     flex: 0 0 35%;
     
-    background-image: url("./img/Edvard-Munch-The-Scream-cropped.jpg");
+    background-image: url("./img/Edvard-Munch-The-Scream.jpg");
     background-repeat: no-repeat;
-    background-position: center bottom;
-    background-size: auto 100%;
+    background-size: 100% auto;
 }
 
 
